@@ -1,0 +1,18 @@
+.container{
+    background-color: blueviolet;
+    height: 400px;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-self: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.one,.two,.three{
+    width: 300px;
+    height:100px ;
+    background-color: orange;
+    border: 1px solid white;
+}

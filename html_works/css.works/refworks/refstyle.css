@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+}
+.one{
+    width:80%;
+    height:100px;
+    background-color:orange;
+    color: black;
+
+}
+.two{
+    width:60%;
+    height:100px ;
+    background-color: violet;
+}
+.three{
+    width:100%;
+    height:200px;
+    background-color:orangered;
+}
+.four{
+    width:100%;
+    height:200px;
+    background-color:blanchedalmond;
+}

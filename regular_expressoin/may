@@ -1,0 +1,6 @@
+import re
+sent="hi hello hi hello good afternoon hi hello hide"
+ct=re.findall("hi,sent")
+print(len(ct))
+
+nums=re.findall("[0-5][]")

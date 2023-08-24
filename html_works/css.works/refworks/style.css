@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-decoration: underline;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+/* #id_tag{
+    color: aquamarine;
+}
+#offerlink{
+    color: red;
+} */
+.heading{
+    color: white;
+    text-decoration: underline;
+}
+.heading-success{
+    color: green;
+}
+.card{
+    width: 30%;
+    height: 200px;
+    background-color: aquamarine;
+    color: black;
+}

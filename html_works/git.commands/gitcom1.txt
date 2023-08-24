@@ -1,0 +1,6 @@
+git clone=> exact copy from remote repo to local system
+git push=> changes in local to remote repo
+git pull=>changes in remote respoting to system
+git add -A=>adding all changes to SA
+git commit -m "message"=>adding staged files to local respositry
+git push => cha
